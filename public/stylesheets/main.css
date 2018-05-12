@@ -1,0 +1,46 @@
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail>img {
+    width: 100%;
+}
+
+.deleteForm {
+    display: inline;
+}
+
+.clientForm {
+    margin-top: 20px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#collapseComment>.well {
+    border-left: 5px solid #00c851;
+}
+
+.nocomment {
+    color: gray;
+}
+
+.comment-owner {
+    color: orange;
+}
+
+.edit-comment-well {
+    border-left: 5px solid #fb3;
+    margin-top: 15px;
+}
+
+.pagination>.disabled>a,
+.pagination>.disabled>a:focus,
+.pagination>.disabled>a:hover,
+.pagination>.disabled>span,
+.pagination>.disabled>span:focus,
+.pagination>.disabled>span:hover {
+    cursor: pointer;
+}
